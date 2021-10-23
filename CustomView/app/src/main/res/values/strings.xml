@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomView</string>
+    <string name="string_banner_title">Banner title</string>
+</resources>
